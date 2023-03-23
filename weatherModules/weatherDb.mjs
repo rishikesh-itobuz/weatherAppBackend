@@ -1,0 +1,3 @@
+let dataBase = [];
+
+export { dataBase };

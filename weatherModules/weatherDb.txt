@@ -1,0 +1,28 @@
+[
+    {
+        "location":"india",
+        "temp":33,
+        "feelsLike":30
+    },
+    {
+        "location":"russia",
+        "temp":3,
+        "feelsLike":2
+    },
+    {
+        "location":"usa",
+        "temp":8,
+        "feelsLike":7
+    },
+    {
+        "location":"nepal",
+        "temp":23,
+        "feelsLike":21
+    },
+    {
+        "location":"japan",
+        "temp":13,
+        "feelsLike":12
+    }
+    
+]
